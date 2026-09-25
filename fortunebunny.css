@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    background-color: #f7b5ef;
+    text-align: center;
+}
+
+.hero {
+    background-color: #f7b5ef;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.globe-card {
+    border: 2px solid #ffffff;
+}
+
+img {
+    padding: 50px;
+    width: 300px;
+    height: auto;
+}
+
+.message {
+  font-style: italic;  
+  color: #ffffff;
+}
+
+button {
+   background-color:#ffa3f4;
+   color: #ffffff;
+   border: none;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #ffffff;
+    color: #000000;
+    }
+
+footer {
+    background-color: #f483e7;
+    color: #ffffff;
+    padding: 20px;
+}

@@ -1,2 +1,2 @@
 # Fortune-telling-bunny-for-athena-snowglobe
-Kind message snow globe project following guide from hack club athenas snowglobe program.
+Cute fortune telling bunny project following guide from hack club athena's snowglobe program.
